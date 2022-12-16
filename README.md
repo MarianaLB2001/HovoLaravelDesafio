@@ -1,1 +1,1 @@
-Projeto HOVO, contém o projeto laravel, bem como uma pasta com a respetiva base de dados exportada. Ainda assim o projeto inclui migrations.
+Projeto HOVO, contém o projeto laravel, bem como um ficheiro com a respetiva base de dados exportada (encomendas.sql). Ainda assim o projeto inclui migrations.
